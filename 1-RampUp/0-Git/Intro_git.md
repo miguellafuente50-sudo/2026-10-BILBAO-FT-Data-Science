@@ -173,7 +173,8 @@ git checkout main
 git fetch upstream
 
 # 3. Fusiona esas novedades en tu código local
-git merge upstream/main --no-edit
+
+
 
 # 4. (Opcional) Actualiza tu GitHub personal
 git push origin main
